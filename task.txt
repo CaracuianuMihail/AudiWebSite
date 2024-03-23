@@ -1,0 +1,4 @@
+•	faceti modificarile in tema pentru acasa 18 in asa fel ca sidebar sa fie din dreapta nu din stanga si sa lucreze la fel de corect din punct de vedere stilistic.
+•	creati o functie care primeste un obiect ca argument si arata in consola tipul la fiecare valoare din obiect.
+•	creati un obiect, dupa un alt obiect care este identic primului ar in afara de asta mai are cateva proprietati iar una din din valorile existente este schimbata.
+•	creati o functie care primeste un array de cifre si va intoarce acelasi array doar ca fiecarui element ii va fi adaugat 1, folositi metoda reduce
